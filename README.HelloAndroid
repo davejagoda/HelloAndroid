@@ -1,0 +1,11 @@
+This repository is based upon this tutorial:
+http://developer.android.com/training/basics/firstapp/creating-project.html
+
+1) should I get rid of libs directory?
+
+2) add SSH_GIT environment variable before calling Eclipse (this should all go in a script)
+
+3) Finish working through the exercises
+
+4) Is this .gitignore file already checked in?
+https://github.com/github/gitignore/blob/master/Android.gitignore
